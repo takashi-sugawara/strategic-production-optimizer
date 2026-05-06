@@ -1,6 +1,6 @@
 # Strategic Production Optimizer 🏭 📈
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url.streamlit.app/](https://strategic-appuction-optimizer-eega7fc6bcgrgaqe9usuc6.streamlit.app/))
 
 **Strategic Production Optimizer** is a professional, interactive web application built with Streamlit and Pyomo. It demonstrates how mathematical optimization (Linear Programming) can be directly translated into **Strategic Business Decisions** such as pricing, demand generation, and capital investment.
 
